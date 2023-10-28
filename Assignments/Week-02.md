@@ -1,5 +1,5 @@
 
-- Big quotes:
+- Big quotes
     - "We Thought We Were Searching Google, But Google Was Searching Us"
     - "At its core, surveillance capitalism is parasitic and self-referential. It revives Karl Marx's old image of capitalism as a vampire that feeds on labor, but with an unexpected turn... Instead of labor, surveillance capitalism feeds on every aspect of human's experience."
 
